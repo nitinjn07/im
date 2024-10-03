@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://new.axilthemes.com/demo/react/abstrak/",
+  "homepage": ".",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@babel/plugin-transform-private-property-in-object": "^7.23.4",
